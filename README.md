@@ -1,0 +1,3 @@
+# Python code error: TypeError in Average Calculation Function
+
+This repository demonstrates a common Python coding error: TypeErrors that occur when functions are not robust against unexpected input types. The `calculate_average` function correctly handles empty lists, but fails when a string element is included. The solution shows how to add appropriate error handling using exception handling and type checking.
